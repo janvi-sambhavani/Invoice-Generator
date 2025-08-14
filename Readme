@@ -1,0 +1,8 @@
+Invoice Form Features
+- Sign-In/Log-In option
+- Customer name input
+- Invoice number auto-generate
+- Date selector
+- Itemized list with quantity and price
+- Tax and total calculation
+- Download as PDF
